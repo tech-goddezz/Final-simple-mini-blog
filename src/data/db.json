@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My FirstBlog",
+      "body": "Why do we use it?/nIt is a long established fact that a render will be distracted. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil facilis, non reiciendis incidunt possimus porro repudiandae at ipsum fugiat natus nesciunt nam ut omnis voluptatibus obcaecati. Dolorem mollitia maiores quasi?",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?/nIt is a long established fact that a render will be distracted. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil facilis, non reiciendis incidunt possimus porro repudiandae at ipsum fugiat natus nesciunt nam ut omnis voluptatibus obcaecati. Dolorem mollitia maiores quasi?",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "saZ",
+      "body": "sdaxa",
+      "author": "yoshi",
+      "id": 9
+    },
+    {
+      "title": "dcXSAS",
+      "body": "ASXAXA",
+      "author": "yoshi",
+      "id": 10
+    },
+    {
+      "title": "ghfukj",
+      "body": "poik'[",
+      "author": "mario",
+      "id": 11
+    },
+    {
+      "title": "adax",
+      "body": "aXSAZA",
+      "author": "yoshi",
+      "id": 12
+    }
+  ]
+}
