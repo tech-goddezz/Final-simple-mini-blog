@@ -31,7 +31,7 @@ const useFetch = (url) => {
                 } 
                 else {
                     setIsPending(false);
-                    setError(err.message);
+                   setError(err.message);
                 }
                 }) 
          }, 1000);
